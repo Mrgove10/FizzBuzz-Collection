@@ -1,4 +1,4 @@
-var limite = 100;
+var limit = 100;
 for (let i = 0; i <= limite; i++) {
     var string = "";
     if (i % 3 == 0) {
