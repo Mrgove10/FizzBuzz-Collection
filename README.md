@@ -1,5 +1,10 @@
 # FizzBuzz-Collection
 
+- [C](C/FizzBuzz.c)
+- [GoLang](GoLang/FizzBuzz.go)
+- [Elixr](Elixir/FizzBuzz.ex)
+- [Javascript](Javascript/FizzBuzz.js)
+
 - Numbers divisible by 3 is replaced by the word fizz
 - Numbers divisible by 5 is replaced by the word buzz.
 - Numbers divisible by 15 become fizz buzz.

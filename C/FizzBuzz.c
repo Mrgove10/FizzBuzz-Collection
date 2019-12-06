@@ -17,7 +17,7 @@ int main()
         }
         if (i % 3 == 0 && i % 5 == 0)
         {
-         //   strcat(string, parse.toint(i));
+         //   strcat(string, parse.toint(i)); //TODO : fix me
         }
 
         printf(string);
