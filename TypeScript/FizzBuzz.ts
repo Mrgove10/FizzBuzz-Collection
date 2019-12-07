@@ -1,6 +1,6 @@
-var limit = 100;
-for (let i = 0; i <= limit; i++) {
-    var string = "";
+var limit : number = 100;
+for (let i : number = 0; i <= limit; i++) {
+    var string : string = "";
     if (i % 3 == 0) {
         string += "Fizz";
     }
